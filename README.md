@@ -1,8 +1,10 @@
 <h1 align="center">Lunar Eclipse 
 </h1
                                    
-### [Live Demo](https://solitairevue.firebaseapp.com](https://lunar-eclipce.glitch.me)">)
-                             
+###  [![Live Demo](https://solitairevue.firebaseapp.com](https://lunar-eclipce.glitch.me))
+
+      [![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
+                    
 ## Description
 This is Countdown App.
 
